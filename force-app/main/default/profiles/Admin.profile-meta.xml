@@ -8,7 +8,7 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.Hobbies__c</field>
+        <field>Account.Hobbies_2__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
